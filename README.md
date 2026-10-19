@@ -1,97 +1,234 @@
-# Sportswear Product API
+# 👟 AyuGear API
 
-A beginner-friendly REST API built with Node.js + Express. It serves the product catalog from `data/main_products.json` (278 products) and does not require a database to get started.
+AyuGear API is a RESTful product API for a sportswear e-commerce application. It provides product data for men's and women's collections, including shoes, clothing, accessories, featured products, and top picks.
 
-## 1. Requirements
+🌐 **Live API:** [https://ayugear.onrender.com/](https://ayugear.onrender.com/)
 
-- Node.js 18+ (Node.js 20+ recommended)
-- npm
+## ✨ Features
 
-## 2. Run locally
+- 🛍️ Retrieve all products and individual product details
+- 👨 Browse men's products and their categories
+- 👩 Browse women's products and their categories
+- 👟 Filter products by shoes, clothing, and accessories
+- ⭐ Retrieve featured products
+- 🔥 Retrieve top products
+- 🔎 Search products by name
+- 💰 Filter products by price range
+- 📦 Filter products by stock availability
+- ↕️ Sort products by price, discount, or name
+- 📄 Pagination for product listings
+- ☁️ Deployed on Render
+
+## 🛠️ Tech Stack
+
+- **Runtime:** Node.js
+- **Backend:** Express.js
+- **Data Format:** JSON
+- **Deployment:** Render
+- **Version Control:** Git & GitHub
+
+## 🌐 Base URL
+
+```text
+https://ayugear.onrender.com
+```
+
+All endpoints below use this base URL.
+
+## 📌 API Endpoints
+
+### General
+
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | `/` | API home or status |
+| GET | `/api` | API information |
+| GET | `/api/health` | Health check |
+| GET | `/api/products` | Retrieve products |
+| GET | `/api/products/:id` | Retrieve a product by ID |
+| GET | `/api/categories` | Retrieve available categories |
+| GET | `/api/featured` | Retrieve featured products |
+| GET | `/api/top` | Retrieve top products |
+
+### Men's Collection
+
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | `/api/men` | All men's products |
+| GET | `/api/men/categories` | Men's products grouped by category |
+| GET | `/api/men/shoes` | Men's shoes |
+| GET | `/api/men/clothing` | Men's clothing |
+| GET | `/api/men/accessories` | Men's accessories |
+
+### Women's Collection
+
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | `/api/women` | All women's products |
+| GET | `/api/women/categories` | Women's products grouped by category |
+| GET | `/api/women/shoes` | Women's shoes |
+| GET | `/api/women/clothing` | Women's clothing |
+| GET | `/api/women/accessories` | Women's accessories |
+
+## 🔍 Query Parameters
+
+The product listing endpoint supports filtering and sorting.
+
+| Parameter | Example | Purpose |
+|---|---|---|
+| `search` | `?search=puma` | Search by product name |
+| `gender` | `?gender=men` | Filter by gender |
+| `category` | `?category=shoes` | Filter by category |
+| `featured` | `?featured=true` | Show featured products |
+| `top` | `?top=true` | Show top products |
+| `inStock` | `?inStock=true` | Show available products |
+| `minPrice` | `?minPrice=1000` | Minimum price |
+| `maxPrice` | `?maxPrice=5000` | Maximum price |
+| `sort` | `?sort=price-asc` | Sort products |
+| `page` | `?page=1&limit=10` | Paginate results |
+
+### Example: Combine Filters
+
+```http
+GET /api/products?gender=men&category=shoes&maxPrice=5000&sort=price-asc
+```
+
+This requests men's shoes up to ₹5,000, sorted by ascending price.
+
+## 🚀 Quick Start
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ayush-yadaav/ProductsData.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd ProductsData
+```
+
+### 3. Install dependencies
 
 ```bash
 npm install
 ```
 
-Copy `.env.example` to `.env` if you want to customize the port or frontend origin. Then start the API:
+### 4. Start the development server
 
 ```bash
-npm run dev
+npm start
 ```
 
-Or use `npm start`. The API runs at `http://localhost:5000` by default.
-
-## 3. Endpoints
-
-| Method | Endpoint | Purpose |
-|---|---|---|
-| GET | `/` | API welcome and endpoint overview |
-| GET | `/api` | Catalog metadata |
-| GET | `/api/health` | Health check |
-| GET | `/api/products` | All products, filterable and paginated |
-| GET | `/api/products/:id` | One product by ID |
-| GET | `/api/men` | All men's products; each product retains its `category` field |
-| GET | `/api/women` | All women's products; each product retains its `category` field |
-| GET | `/api/men/shoes` | Men's shoes |
-| GET | `/api/men/clothing` | Men's clothing |
-| GET | `/api/men/accessories` | Men's accessories |
-| GET | `/api/women/shoes` | Women's shoes |
-| GET | `/api/women/clothing` | Women's clothing |
-| GET | `/api/women/accessories` | Women's accessories |
-| GET | `/api/featured` | Featured products |
-| GET | `/api/top` | Curated top products |
-| GET | `/api/categories` | Available categories |
-
-## 4. Product filters
-
-Use these query parameters on `/api/products`, `/api/men`, `/api/women`, `/api/featured`, `/api/top`, and category endpoints where applicable. `/api/men` and `/api/women` return all matching products by default; pagination is opt-in with `page` or `limit`:
-
-- `search` or `q` — search product name, category, gender, or color
-- `category=shoes|clothing|accessories`
-- `gender=men|women`
-- `minPrice=1000` and `maxPrice=10000` — checks sale price when available, otherwise regular price
-- `inStock=true` or `inStock=false`
-- `featured=true` or `featured=false`
-- `top=true` or `top=false`
-- `sort=price-asc|price-desc|name-asc|discount-desc`
-- `page=1` and `limit=20` (maximum limit: 100)
-
-Examples:
+The API will run at the local address configured by your server, typically:
 
 ```text
-http://localhost:5000/api/products?gender=men&category=shoes
-http://localhost:5000/api/products?search=puma&sort=price-asc
-http://localhost:5000/api/products?minPrice=1000&maxPrice=5000&page=1&limit=10
-http://localhost:5000/api/men/shoes?inStock=true
-http://localhost:5000/api/women?featured=true
-http://localhost:5000/api/products/prod-001
+http://localhost:5000
 ```
 
-## 5. Use from frontend
+## 💻 Usage Example
 
-```js
-async function loadProducts() {
+Fetch all products using JavaScript:
+
+```javascript
+const API_URL = "https://ayugear.onrender.com";
+
+async function getProducts() {
   try {
-    const response = await fetch('http://localhost:5000/api/products');
+    const response = await fetch(`${API_URL}/api/products`);
+
+    if (!response.ok) {
+      throw new Error(`HTTP error: ${response.status}`);
+    }
+
     const result = await response.json();
-    if (!response.ok || !result.success) throw new Error(result.message || 'Could not load products');
-    console.log(result.data); // current page of products
+
+    console.log(result.data);
   } catch (error) {
-    console.error('API error:', error.message);
+    console.error("Failed to fetch products:", error);
   }
 }
 
-loadProducts();
+getProducts();
 ```
 
-The list endpoints return a pagination object with `success`, `count`, `total`, `page`, `limit`, `totalPages`, and `data`. Single-product lookup returns the product in `data`.
+### Fetch Men's Products
 
-## Notes
+```javascript
+async function getMenProducts() {
+  const response = await fetch(
+    "https://ayugear.onrender.com/api/men"
+  );
 
-- Product data is read from the JSON file. This starter API does not yet support creating, editing, or deleting products, and changes made in memory are not persisted.
-- `top_products` is the supplied curated list, not verified sales-ranking data.
-- For a deployed production store, add validation, tests, logging, and a database/admin authentication before exposing write endpoints.
+  const result = await response.json();
 
-## Gender endpoint response shape
+  console.log(result.data);
+}
 
-`GET /api/men` returns all 146 men's products in `data`, and `GET /api/women` returns all 132 women's products in `data`. Every product keeps its `category` field (`shoes`, `clothing`, or `accessories`), so the frontend can group products by category as needed. Add `?page=1&limit=20` when you want pagination.
+getMenProducts();
+```
+
+### Fetch Featured Products
+
+```javascript
+async function getFeaturedProducts() {
+  const response = await fetch(
+    "https://ayugear.onrender.com/api/featured"
+  );
+
+  const result = await response.json();
+
+  console.log(result.data);
+}
+
+getFeaturedProducts();
+```
+
+## 📦 Product Data Structure
+
+Products contain fields such as:
+
+```json
+{
+  "id": "example-id",
+  "name": "Example Sportswear Product",
+  "category": "shoes",
+  "price": 4999,
+  "salePrice": 3999,
+  "discount": 20,
+  "color": "White",
+  "inStock": true,
+  "image": "https://example.com/product.jpg",
+  "sizes": [7, 8, 9, 10],
+  "gender": "men",
+  "isFeatured": true,
+  "isTop": false
+}
+```
+
+This is an illustrative example of the product schema; actual values depend on the stored product data.
+
+## ☁️ Deployment
+
+AyuGear API is hosted on Render.
+
+**Production URL:** [https://ayugear.onrender.com/](https://ayugear.onrender.com/)
+
+Use the production URL in your frontend instead of your local development URL.
+
+Note: Free hosting services may take longer to respond after a period of inactivity.
+
+## 🎯 Project Goals
+
+AyuGear API demonstrates how to organize product data and expose it through REST endpoints for an e-commerce frontend. It can be used to practice API integration, product filtering, category navigation, and dynamic product listings.
+
+## 👨‍💻 Author
+
+**Ayush Yadav**
+
+GitHub: [@ayush-yadaav](https://github.com/ayush-yadaav)
+
+---
+
+⭐ If you find this project useful, consider starring the repository.
