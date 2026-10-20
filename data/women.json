@@ -1,0 +1,2617 @@
+[
+  {
+    "id": "691855_41",
+    "name": "Essentials Elevated Women's Crew Neck Tee",
+    "category": "clothing",
+    "price": 1499,
+    "salePrice": 974,
+    "discount": 35,
+    "color": "Fuchsia Glow",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/691855/41/mod01/fnd/IND/fmt/png/Essentials-Elevated-Women's-Crew-Neck-Tee",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": false
+  },
+  {
+    "id": "091529_02",
+    "name": "Rider Backpack",
+    "category": "accessories",
+    "price": 2999,
+    "salePrice": 1799,
+    "discount": 40,
+    "color": "Clyde Royal",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/091529/02/fnd/IND/fmt/png/Rider-Backpack",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": true
+  },
+  {
+    "id": "379538_26",
+    "name": "Extend Lite Trail Running Shoes",
+    "category": "shoes",
+    "price": 7499,
+    "salePrice": 4499,
+    "discount": 40,
+    "color": "Dusky Gray-Fizzy Light",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/379538/26/sv01/fnd/IND/fmt/png/Extend-Lite-Trail-Running-Shoes",
+    "sizes": [
+      "4",
+      "5",
+      "6"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": true
+  },
+  {
+    "id": "027431_09",
+    "name": "Metal Cat Classic Adjustable Baseball Cap",
+    "category": "accessories",
+    "price": 1299,
+    "salePrice": 714,
+    "discount": 45,
+    "color": "Adriatic",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/027431/09/fnd/IND/fmt/png/Metal-Cat-Classic-Adjustable-Baseball-Cap",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true
+  },
+  {
+    "id": "310694_15",
+    "name": "SOFTRIDE Carson Ease In Running Shoes",
+    "category": "shoes",
+    "price": 6499,
+    "salePrice": 4029,
+    "discount": 38,
+    "color": "Plum Jam-Lilac Crush-Fizzy Light",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/310694/15/sv01/fnd/IND/fmt/png/SOFTRIDE-Carson-Ease-In-Running-Shoes",
+    "sizes": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "026411_01",
+    "name": "Essentials Mid Crown Cuffless Beanie",
+    "category": "accessories",
+    "price": 1299,
+    "salePrice": 909,
+    "discount": 30,
+    "color": "PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/026411/01/fnd/IND/fmt/png/Essentials-Mid-Crown-Cuffless-Beanie",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "092842_01",
+    "name": "PUMA Plus Daily Use Waist Bag II",
+    "category": "accessories",
+    "price": 899,
+    "salePrice": 674,
+    "discount": 25,
+    "color": "PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/092842/01/fnd/IND/fmt/png/PUMA-Plus-Daily-Use-Waist-Bag-II",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "525899_01",
+    "name": "Train All Day Essentials Women's 7/8 Tights",
+    "category": "clothing",
+    "price": 2599,
+    "salePrice": 2599,
+    "discount": 0,
+    "color": "PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/525899/01/mod01/fnd/IND/fmt/png/Train-All-Day-Essentials-Women's-7/8-Tights",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "402535_03",
+    "name": "RS-X Heritage Colorblock Casual Sneakers",
+    "category": "shoes",
+    "price": 10999,
+    "salePrice": 6819,
+    "discount": 38,
+    "color": "PUMA Black-Redmazing",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/402535/03/sv01/fnd/IND/fmt/png/RS-X-Heritage-Colorblock-Casual-Sneakers",
+    "sizes": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "387403_04",
+    "name": "Truffle Sneakers",
+    "category": "shoes",
+    "price": 4499,
+    "salePrice": 2159,
+    "discount": 52,
+    "color": "Purple Charcoal-PUMA White",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/387403/04/sv01/fnd/IND/fmt/png/Truffle-Sneakers",
+    "sizes": [
+      "4",
+      "7",
+      "8",
+      "9"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true
+  },
+  {
+    "id": "091382_02",
+    "name": "Core Up Women’s Mini Shoulder Grip Bag 1.5L",
+    "category": "accessories",
+    "price": 1799,
+    "salePrice": 1169,
+    "discount": 35,
+    "color": "Grape Mist",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/091382/02/fnd/IND/fmt/png/Core-Up-Women’s-Mini-Shoulder-Grip-Bag-1.5L",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "041464_01",
+    "name": "Essential Training Grip Gloves",
+    "category": "accessories",
+    "price": 1799,
+    "salePrice": 1439,
+    "discount": 20,
+    "color": "Puma Black-Puma White",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/041464/01/fnd/IND/fmt/png/Essential-Training-Grip-Gloves",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "091056_01",
+    "name": "Leather Embossed Bi-Fold Wallet",
+    "category": "accessories",
+    "price": 1999,
+    "salePrice": 1199,
+    "discount": 40,
+    "color": "PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/091056/01/fnd/IND/fmt/png/Leather-Embossed-Bi-Fold-Wallet",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true
+  },
+  {
+    "id": "410423_04",
+    "name": "PUMA Shibui Comfort Clogs",
+    "category": "shoes",
+    "price": 3499,
+    "salePrice": 2799,
+    "discount": 20,
+    "color": "PUMA Olive-Kiwi Green",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/410423/04/sv01/fnd/IND/fmt/png/PUMA-Shibui-Comfort-Clogs",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "310154_04",
+    "name": "SOFTRIDE Carson Running Shoes",
+    "category": "shoes",
+    "price": 5999,
+    "salePrice": 3779,
+    "discount": 37,
+    "color": "PUMA Black-Mauved Out",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/310154/04/sv01/fnd/IND/fmt/png/SOFTRIDE-Carson-Running-Shoes",
+    "sizes": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "682396_01",
+    "name": "Essentials Small No. 1 Logo Women's Comfort Hoodie",
+    "category": "clothing",
+    "price": 4999,
+    "salePrice": 2999,
+    "discount": 40,
+    "color": "PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/682396/01/mod01/fnd/IND/fmt/png/Essentials-Small-No.-1-Logo-Women's-Comfort-Hoodie",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true
+  },
+  {
+    "id": "313130_01",
+    "name": "PUMA SmoothRest High-Rebound Running Shoes",
+    "category": "shoes",
+    "price": 6999,
+    "salePrice": 4199,
+    "discount": 40,
+    "color": "PUMA Black-PUMA White-Glacial Gray",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/313130/01/sv01/fnd/IND/fmt/png/PUMA-SmoothRest-High-Rebound-Running-Shoes",
+    "sizes": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": true
+  },
+  {
+    "id": "395002_02",
+    "name": "Adelina Women's Ballerina Shoes",
+    "category": "shoes",
+    "price": 3999,
+    "salePrice": 2279,
+    "discount": 43,
+    "color": "Purple Charcoal-Spring Lavender-PUMA White",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/395002/02/sv01/fnd/IND/fmt/png/Adelina-Women's-Ballerina-Shoes",
+    "sizes": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true
+  },
+  {
+    "id": "694047_01",
+    "name": "Graphics Relaxed Running Vibes Women's Tee",
+    "category": "clothing",
+    "price": 1799,
+    "salePrice": 1169,
+    "discount": 35,
+    "color": "PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/694047/01/mod01/fnd/IND/fmt/png/Graphics-Relaxed-Running-Vibes-Women's-Tee",
+    "sizes": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": false
+  },
+  {
+    "id": "091475_01",
+    "name": "PUMA Elite Multi-Pocket 15L Backpack V2",
+    "category": "accessories",
+    "price": 3499,
+    "salePrice": 2274,
+    "discount": 35,
+    "color": "PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/091475/01/fnd/IND/fmt/png/PUMA-Elite-Multi-Pocket-15L-Backpack-V2",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "402554_05",
+    "name": "CA Pro Lux II Premium Leather Shoes",
+    "category": "shoes",
+    "price": 8999,
+    "salePrice": 4679,
+    "discount": 48,
+    "color": "Feather Gray-Cool Dark Gray-Warm White",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/402554/05/sv01/fnd/IND/fmt/png/CA-Pro-Lux-II-Premium-Leather-Shoes",
+    "sizes": [
+      "4",
+      "6",
+      "8",
+      "9"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true
+  },
+  {
+    "id": "401287_22",
+    "name": "Speedcat Women's Ballet Shoes",
+    "category": "shoes",
+    "price": 6999,
+    "salePrice": 6999,
+    "discount": 0,
+    "color": "Dusky Rosewood-PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/401287/22/sv01/fnd/IND/fmt/png/Speedcat-Women's-Ballet-Shoes",
+    "sizes": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "410423_06",
+    "name": "PUMA Shibui Comfort Clogs",
+    "category": "shoes",
+    "price": 3499,
+    "salePrice": 2799,
+    "discount": 20,
+    "color": "PUMA Navy-PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/410423/06/sv01/fnd/IND/fmt/png/PUMA-Shibui-Comfort-Clogs",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "092100_02",
+    "name": "PUMA PLUSH Women’s Halfmoon Sling Bag",
+    "category": "accessories",
+    "price": 1499,
+    "salePrice": 899,
+    "discount": 40,
+    "color": "Rose Dust",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/092100/02/fnd/IND/fmt/png/PUMA-PLUSH-Women’s-Halfmoon-Sling-Bag",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true
+  },
+  {
+    "id": "27734286",
+    "name": "Nike Brasilia Backpack (Extra Large, 30L)",
+    "category": "accessories",
+    "price": 3895,
+    "salePrice": 3895,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IB4400-010_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734287",
+    "name": "Nike Brasilia Backpack (Medium, 24L)",
+    "category": "accessories",
+    "price": 2995,
+    "salePrice": 2396,
+    "discount": 20,
+    "color": "Grey",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IB4408-084_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734289",
+    "name": "Nike Training Duffel Bag (24L)",
+    "category": "accessories",
+    "price": 2795,
+    "salePrice": 2236,
+    "discount": 20,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IH7961-654_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734290",
+    "name": "Nike Gym Tote (28L)",
+    "category": "accessories",
+    "price": 2495,
+    "salePrice": 2495,
+    "discount": 0,
+    "color": "Brown",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/2/32d6286Nike-IH7964-236_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734291",
+    "name": "Nike Gym Tote (28L)",
+    "category": "accessories",
+    "price": 2495,
+    "salePrice": 2495,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/2/32d6286Nike-IH7964-654_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734294",
+    "name": "Nike Academy Football Backpack (Large, 30L)",
+    "category": "accessories",
+    "price": 4095,
+    "salePrice": 4095,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/2/32d6286Nike-IO0912-010_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734295",
+    "name": "Nike Academy Football Gymsack (18L)",
+    "category": "accessories",
+    "price": 1595,
+    "salePrice": 1117,
+    "discount": 30,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IO0924-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734296",
+    "name": "Nike Academy Shoe Bag (11L)",
+    "category": "accessories",
+    "price": 1595,
+    "salePrice": 1356,
+    "discount": 15,
+    "color": "Brown",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-IO0925-286_1.jpg",
+    "sizes": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734297",
+    "name": "Nike Aura Floral Backpack (24L)",
+    "category": "accessories",
+    "price": 4695,
+    "salePrice": 3756,
+    "discount": 20,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IQ1267-010_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734298",
+    "name": "Nike Aura Floral Backpack (24L)",
+    "category": "accessories",
+    "price": 4695,
+    "salePrice": 4695,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-IQ1267-654_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734299",
+    "name": "Nike Aura Floral Crescent Cross-Body Bag (4L)",
+    "category": "accessories",
+    "price": 3495,
+    "salePrice": 2796,
+    "discount": 20,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IQ1268-010_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734300",
+    "name": "Nike Aura Floral Crescent Cross-Body Bag (4L)",
+    "category": "accessories",
+    "price": 3495,
+    "salePrice": 3495,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IQ1268-654_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734301",
+    "name": "Nike Aura Floral Waist Pack (2L)",
+    "category": "accessories",
+    "price": 2895,
+    "salePrice": 2895,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IQ1270-654_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734302",
+    "name": "Nike Heritage Sweep Backpack (25L)",
+    "category": "accessories",
+    "price": 3895,
+    "salePrice": 3311,
+    "discount": 15,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IU4959-010_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734305",
+    "name": "Nike Aura Floral Cross-Body Bag (5L)",
+    "category": "accessories",
+    "price": 2995,
+    "salePrice": 2995,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IV5665-010_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734307",
+    "name": "Nike Club Unstructured Futura Wash Cap",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 1016,
+    "discount": 15,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5368-657_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734308",
+    "name": "Nike Dri-FIT Club Structured Swoosh Cap",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 1195,
+    "discount": 0,
+    "color": "Brown",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5625-247_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734310",
+    "name": "Nike Apex Futura Washed Bucket Hat",
+    "category": "accessories",
+    "price": 1595,
+    "salePrice": 1595,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5381-010_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734313",
+    "name": "Nike Dri-FIT Club Structured Metal Logo Cap",
+    "category": "accessories",
+    "price": 1295,
+    "salePrice": 1101,
+    "discount": 15,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5371-100_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734314",
+    "name": "Nike Dri-FIT Club Unstructured Metal Swoosh Cap",
+    "category": "accessories",
+    "price": 1295,
+    "salePrice": 1101,
+    "discount": 15,
+    "color": "Green",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5372-303_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734315",
+    "name": "Nike Dri-FIT Club Unstructured Featherlight Cap",
+    "category": "accessories",
+    "price": 1595,
+    "salePrice": 1356,
+    "discount": 15,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5682-654_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734316",
+    "name": "Nike Dri-FIT ADV Fly Unstructured AeroBill AeroAdapt Cap",
+    "category": "accessories",
+    "price": 2295,
+    "salePrice": 2295,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FJ0736-100_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734317",
+    "name": "Jordan Jumpman Pro Nike Jordan Jumpman Pro Adjustable Cap",
+    "category": "accessories",
+    "price": 1695,
+    "salePrice": 1695,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FV5296-687_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734318",
+    "name": "Nike Club Unstructured Denim Cap",
+    "category": "accessories",
+    "price": 1995,
+    "salePrice": 1397,
+    "discount": 30,
+    "color": "Grey",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HF0383-060_1.jpg",
+    "sizes": [
+      "M/L"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734324",
+    "name": "Jordan Club Unstructured Cap",
+    "category": "accessories",
+    "price": 1495,
+    "salePrice": 1271,
+    "discount": 15,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IM9067-010_1.jpg",
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734325",
+    "name": "Jordan Club Unstructured Cap",
+    "category": "accessories",
+    "price": 1495,
+    "salePrice": 1271,
+    "discount": 15,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-IM9067-657_1.jpg",
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734326",
+    "name": "Jordan Rise Structured Cap",
+    "category": "accessories",
+    "price": 1695,
+    "salePrice": 1695,
+    "discount": 0,
+    "color": "Blue",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IM9072-485_1.jpg",
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734327",
+    "name": "Jordan Pro Unstructured Cap",
+    "category": "accessories",
+    "price": 1995,
+    "salePrice": 1995,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IM9077-010_1.jpg",
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734328",
+    "name": "Jordan Rise Structured Camo Hat",
+    "category": "accessories",
+    "price": 1995,
+    "salePrice": 1995,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IM9119-100_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27751119",
+    "name": "Nike One Women's Dri-FIT Mid-Rise Woven Trousers",
+    "category": "clothing",
+    "price": 3495,
+    "salePrice": 2971,
+    "discount": 15,
+    "color": "Blue",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-II4477-407_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27751161",
+    "name": "Nike Universa Women's 7/8 Leggings",
+    "category": "clothing",
+    "price": 6995,
+    "salePrice": 6995,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3fcef6Nike-IM9782-654_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27751175",
+    "name": "Nike Universa Women's Mesh Short-Sleeve Top",
+    "category": "clothing",
+    "price": 4495,
+    "salePrice": 4495,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/9/094e755Nike-IM9946-654_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27751189",
+    "name": "Nike Pro Sculpt Women's Dri-FIT Long-Sleeve Top",
+    "category": "clothing",
+    "price": 4295,
+    "salePrice": 4295,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/e/cee5b72Nike-IM9971-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27751203",
+    "name": "Nike Universa Women's Dri-FIT Short-Sleeve Top",
+    "category": "clothing",
+    "price": 3695,
+    "salePrice": 3695,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IO9961-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27751245",
+    "name": "AS W NK DF 24.7 IS WIDE LEG PA AS W NK DF 24.7 IS WIDE LEG PA",
+    "category": "clothing",
+    "price": 6695,
+    "salePrice": 6695,
+    "discount": 0,
+    "color": "Brown",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/f/9fdf14fNike-IR1933-236_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27751259",
+    "name": "Nike 24.7 PerfectStretch Women's Dri-FIT High-Rise Pleated Skirt",
+    "category": "clothing",
+    "price": 7995,
+    "salePrice": 7995,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/1/71f6d8eNike-IR8706-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24810552",
+    "name": "Jordan Rise Structured Metal Jumpman Hat",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 1195,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HM5750-100_1.jpg",
+    "sizes": [
+      "S/M"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24810553",
+    "name": "Jordan Club Unstructured Curved-Bill Hat",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 1195,
+    "discount": 0,
+    "color": "Grey",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HQ1963-077_1.jpg",
+    "sizes": [
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24788604",
+    "name": "Nike Revolution 8 EasyOn Women's Road Running Shoes",
+    "category": "shoes",
+    "price": 4295,
+    "salePrice": 4295,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HQ2415-001_1.jpg",
+    "sizes": [
+      "UK 3",
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24789611",
+    "name": "Nike Journey Run Women's Road Running Shoes",
+    "category": "shoes",
+    "price": 8495,
+    "salePrice": 8495,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FJ7765-001_1.jpg",
+    "sizes": [
+      "UK 3",
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24788602",
+    "name": "Nike Run Defy Women's Road Running Shoes",
+    "category": "shoes",
+    "price": 3995,
+    "salePrice": 2997,
+    "discount": 25,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HM9593-002_1.jpg",
+    "sizes": [
+      "UK 3",
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24809358",
+    "name": "Jordan Sport Women's 10cm (approx.) Diamond Shorts",
+    "category": "clothing",
+    "price": 2495,
+    "salePrice": 2495,
+    "discount": 0,
+    "color": "N/A",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FN5134-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24809359",
+    "name": "Nike Sportswear Chill Knit Women's T-shirt",
+    "category": "clothing",
+    "price": 2195,
+    "salePrice": 1537,
+    "discount": 30,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FV5509-100_1.jpg",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": false
+  },
+  {
+    "id": "24810372",
+    "name": "Nike Universa Women's High-Waisted 12.5cm (approx.) Biker Shorts with No Front Seam",
+    "category": "clothing",
+    "price": 3695,
+    "salePrice": 2587,
+    "discount": 30,
+    "color": "N/A",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HQ6833-010_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24826836",
+    "name": "Nike Swift Women's Repel UV-Protection Running Jacket",
+    "category": "clothing",
+    "price": 6495,
+    "salePrice": 6495,
+    "discount": 0,
+    "color": "N/A",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IM9481-502_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24826837",
+    "name": "Nike Sportswear Women's Shrunken Tracksuit Jacket",
+    "category": "clothing",
+    "price": 4995,
+    "salePrice": 4995,
+    "discount": 0,
+    "color": "N/A",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IF0217-103_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24826841",
+    "name": "Nike Sportswear Women's Oversized Long-Sleeved T-Shirt",
+    "category": "clothing",
+    "price": 2695,
+    "salePrice": 2695,
+    "discount": 0,
+    "color": "N/A",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IH7696-100_1.jpg",
+    "sizes": [
+      "M"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24837695",
+    "name": "Nike Sportswear Women's Oversized Mid-Rise Tracksuit Bottoms",
+    "category": "clothing",
+    "price": 4095,
+    "salePrice": 4095,
+    "discount": 0,
+    "color": "Purple",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IF0219-019_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24852256",
+    "name": "Nike Swift Women's Repel Packable Running Jacket",
+    "category": "clothing",
+    "price": 6495,
+    "salePrice": 6495,
+    "discount": 0,
+    "color": "N/A",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HQ0651-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24946437",
+    "name": "Nike Everyday Cushioned Training No-Show Socks (3 Pairs)",
+    "category": "accessories",
+    "price": 595,
+    "salePrice": 595,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-SX7673-100_1.jpg",
+    "sizes": [
+      "S",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "25007960",
+    "name": "Nike Dri-FIT Club Structured Blank Front Cap",
+    "category": "accessories",
+    "price": 995,
+    "salePrice": 697,
+    "discount": 30,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB6452-010_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "25996817",
+    "name": "Nike Everyday Plus Cushioned Women's Training Footie Socks (3 Pairs)",
+    "category": "accessories",
+    "price": 895,
+    "salePrice": 627,
+    "discount": 30,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-DH5463-903_1.jpg",
+    "sizes": [
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24786451",
+    "name": "Nike Running Lightweight Micro Crew Socks (1 Pair)",
+    "category": "accessories",
+    "price": 995,
+    "salePrice": 995,
+    "discount": 0,
+    "color": "N/A",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IB6114-100_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24886179",
+    "name": "Jordan Club Nike Jordan Club Unstructured Curved-Bill Hat",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 1195,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HQ1963-010_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24946618",
+    "name": "Jordan Rise Nike Jordan Rise Structured Metal Jumpman Hat",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 1195,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HM5750-010_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "25984591",
+    "name": "Nike Dri-FIT Club Unstructured Metal Swoosh Cap",
+    "category": "accessories",
+    "price": 1295,
+    "salePrice": 907,
+    "discount": 30,
+    "color": "Grey",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5372-382_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "25984595",
+    "name": "Nike Club Unstructured Cap",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 598,
+    "discount": 50,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FZ5698-133_1.jpg",
+    "sizes": [
+      "S/M"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true
+  },
+  {
+    "id": "25984602",
+    "name": "Nike Club Unstructured Cap",
+    "category": "accessories",
+    "price": 1295,
+    "salePrice": 907,
+    "discount": 30,
+    "color": "Blue",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IR0731-451_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "25996820",
+    "name": "Nike Running Lightweight Crew Socks (1 Pair)",
+    "category": "accessories",
+    "price": 995,
+    "salePrice": 995,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HV6919-100_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27734322",
+    "name": "Jordan Rise Nike Jordan Rise Structured Metal Jumpman Hat",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 1016,
+    "discount": 15,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HM5750-687_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24887838",
+    "name": "Nike Air Max 90 Women's Shoes",
+    "category": "shoes",
+    "price": 10995,
+    "salePrice": 10995,
+    "discount": 0,
+    "color": "N/A",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-DH8010-100_1.jpg",
+    "sizes": [
+      "UK 3",
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7",
+      "UK 8"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24888849",
+    "name": "Nike Air Max Moto 2K Women's Shoes with Reflective Design Accents",
+    "category": "shoes",
+    "price": 11495,
+    "salePrice": 11495,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HQ2056-007_1.jpg",
+    "sizes": [
+      "UK 3",
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7",
+      "UK 8"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24926265",
+    "name": "Nike Gamma Force Women's Shoes",
+    "category": "shoes",
+    "price": 8495,
+    "salePrice": 6372,
+    "discount": 25,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-DX9176-100_1.jpg",
+    "sizes": [
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7",
+      "UK 8"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24926283",
+    "name": "Nike Court Legacy Lift Women's Shoes",
+    "category": "shoes",
+    "price": 7495,
+    "salePrice": 7495,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-DM7590-100_1.jpg",
+    "sizes": [
+      "UK 3",
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7",
+      "UK 8",
+      "UK 9"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24928850",
+    "name": "Nike Astrograbber Leather Women's Shoes",
+    "category": "shoes",
+    "price": 10795,
+    "salePrice": 5398,
+    "discount": 50,
+    "color": "Green",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-II1259-300_1.jpg",
+    "sizes": [
+      "UK 4",
+      "UK 5",
+      "UK 6"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true
+  },
+  {
+    "id": "24928883",
+    "name": "Nike Air Max 90 Women's Shoes",
+    "category": "shoes",
+    "price": 11895,
+    "salePrice": 8922,
+    "discount": 25,
+    "color": "Pink",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IM4613-600_1.jpg",
+    "sizes": [
+      "UK 3",
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 8"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24946376",
+    "name": "Nike Dunk Low Women's Shoes",
+    "category": "shoes",
+    "price": 9695,
+    "salePrice": 6787,
+    "discount": 30,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IM6572-101_1.jpg",
+    "sizes": [
+      "UK 5",
+      "UK 6",
+      "UK 7",
+      "UK 8"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24948358",
+    "name": "Nike Air Max Muse Women's Shoes",
+    "category": "shoes",
+    "price": 13995,
+    "salePrice": 13995,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FV1920-001_1.jpg",
+    "sizes": [
+      "UK 3",
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "26000129",
+    "name": "Nike Air Max 95 Big Bubble Women's Shoes",
+    "category": "shoes",
+    "price": 15995,
+    "salePrice": 9597,
+    "discount": 40,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HJ5996-001_1.jpg",
+    "sizes": [
+      "UK 4",
+      "UK 5",
+      "UK 6"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "26000157",
+    "name": "Nike Tennis Centre Women's Shoes",
+    "category": "shoes",
+    "price": 9695,
+    "salePrice": 7272,
+    "discount": 25,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IM5955-101_1.jpg",
+    "sizes": [
+      "UK 3",
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7",
+      "UK 8",
+      "UK 9"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24810543",
+    "name": "Nike Club Unstructured Swoosh Cap",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 1195,
+    "discount": 0,
+    "color": "N/A",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5369-010_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "24810545",
+    "name": "Nike Dri-FIT Club Structured Metal Logo Cap",
+    "category": "accessories",
+    "price": 1295,
+    "salePrice": 842,
+    "discount": 35,
+    "color": "N/A",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5371-011_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27751266",
+    "name": "Nike 24.7 PerfectStretch Women's Dri-FIT High-Rise Pleated Skirt",
+    "category": "clothing",
+    "price": 7995,
+    "salePrice": 7995,
+    "discount": 0,
+    "color": "Green",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/1/71f6d8eNike-IR8706-303_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27751286",
+    "name": "Nike One Fitted Women's Tank Top",
+    "category": "clothing",
+    "price": 3495,
+    "salePrice": 3495,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IU1420-133_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27751306",
+    "name": "Nike One Women's Dri-FIT Oversized Short-Sleeve Top",
+    "category": "clothing",
+    "price": 3695,
+    "salePrice": 3695,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IV4917-654_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752584",
+    "name": "Nike AeroSwift Women's Dri-FIT ADV Mid-Rise Brief-Lined 8cm (approx.) Running Shorts",
+    "category": "clothing",
+    "price": 3695,
+    "salePrice": 3141,
+    "discount": 15,
+    "color": "Blue",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-FN2329-468_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752596",
+    "name": "Nike AeroSwift Women's Dri-FIT ADV Cropped Running Tank Top",
+    "category": "clothing",
+    "price": 4495,
+    "salePrice": 3821,
+    "discount": 15,
+    "color": "Blue",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3fcef6Nike-FN2714-468_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752614",
+    "name": "Nike Swift Women's High-Waisted 10cm (approx.) Tight Running Shorts with Pockets",
+    "category": "clothing",
+    "price": 3295,
+    "salePrice": 3295,
+    "discount": 0,
+    "color": "Blue",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/1/71f6d8eNike-HJ2259-468_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752620",
+    "name": "Nike Tempo Women's Dri-FIT Mid-Rise Brief-Lined Running Shorts",
+    "category": "clothing",
+    "price": 1795,
+    "salePrice": 1795,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HM6097-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752632",
+    "name": "Nike Universa Women's High-Waisted 7/8 Leggings with No Front Seam",
+    "category": "clothing",
+    "price": 5495,
+    "salePrice": 4396,
+    "discount": 20,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3fcef6Nike-HQ6814-654_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752644",
+    "name": "Nike Swift Women's Dri-FIT Mid-Rise Running Trousers",
+    "category": "clothing",
+    "price": 4295,
+    "salePrice": 4295,
+    "discount": 0,
+    "color": "Purple",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3fcef6Nike-HV6089-583_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752650",
+    "name": "Nike Flow Women's Dri-FIT High-Waisted 2-in-1 Running Shorts",
+    "category": "clothing",
+    "price": 2595,
+    "salePrice": 2595,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-IF1498-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752656",
+    "name": "Nike Flow Women's Dri-FIT High-Waisted 2-in-1 Running Shorts",
+    "category": "clothing",
+    "price": 2595,
+    "salePrice": 2595,
+    "discount": 0,
+    "color": "Pink",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-IF1498-621_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752668",
+    "name": "Nike One Women's Dri-FIT Mid-Rise Woven Trousers",
+    "category": "clothing",
+    "price": 3495,
+    "salePrice": 3495,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-II4477-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752674",
+    "name": "Nike Zenvy Women's High-Waisted 7/8 Leggings with No Front Seam",
+    "category": "clothing",
+    "price": 5295,
+    "salePrice": 5295,
+    "discount": 0,
+    "color": "Blue",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-II5234-407_1.jpg",
+    "sizes": [
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752710",
+    "name": "Nike Universa Women's High-Waisted Full-Length Leggings with No Front Seam",
+    "category": "clothing",
+    "price": 5495,
+    "salePrice": 5495,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-HQ6811-654_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752734",
+    "name": "Nike AeroSwift Women's Dri-FIT ADV Running Vest",
+    "category": "clothing",
+    "price": 4695,
+    "salePrice": 3756,
+    "discount": 20,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IF1253-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27752742",
+    "name": "Nike Dri-FIT One Women's Mid-rise 8cm (approx.) 2-in-1 Shorts",
+    "category": "clothing",
+    "price": 2495,
+    "salePrice": 2495,
+    "discount": 0,
+    "color": "Pink",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/3/e3fcef6Nike-DX6013-621_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753074",
+    "name": "Jordan Brooklyn Women's Tracksuit Bottoms",
+    "category": "clothing",
+    "price": 4995,
+    "salePrice": 4995,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-IM6847-010_1.jpg",
+    "sizes": [
+      "XS",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753078",
+    "name": "Jordan Brooklyn Women's Realtree Trousers",
+    "category": "clothing",
+    "price": 5995,
+    "salePrice": 5995,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IM6946-100_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753208",
+    "name": "Jordan Sport Women's 10cm (approx.) Diamond Shorts",
+    "category": "clothing",
+    "price": 2495,
+    "salePrice": 2495,
+    "discount": 0,
+    "color": "Blue",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-FN5134-484_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753211",
+    "name": "Jordan Flight Women's T-Shirt Dress",
+    "category": "clothing",
+    "price": 4995,
+    "salePrice": 4246,
+    "discount": 15,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/1/71f6d8eNike-IM6801-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753339",
+    "name": "Nike Move Women's Dri-FIT T-Shirt",
+    "category": "clothing",
+    "price": 2595,
+    "salePrice": 2206,
+    "discount": 15,
+    "color": "Blue",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IO0935-438_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753340",
+    "name": "Sabrina Nike Dri-FIT Basketball T-Shirt",
+    "category": "clothing",
+    "price": 2595,
+    "salePrice": 2595,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IO0942-100_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753341",
+    "name": "Jordan Brooklyn Fleece Women's Cropped Crew-Neck Sweatshirt",
+    "category": "clothing",
+    "price": 4495,
+    "salePrice": 4495,
+    "discount": 0,
+    "color": "Blue",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IM6975-485_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753345",
+    "name": "Jordan Flight Women's Graphic T-Shirt",
+    "category": "clothing",
+    "price": 2495,
+    "salePrice": 2121,
+    "discount": 15,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/3/833053dNike-IM7132-100_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753354",
+    "name": "Nike Crossover Women's 12.5cm (approx.) Fleece Basketball Shorts",
+    "category": "clothing",
+    "price": 3495,
+    "salePrice": 2971,
+    "discount": 15,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-IO2253-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753357",
+    "name": "Nike Sportswear Women's Tight Cropped Polo",
+    "category": "clothing",
+    "price": 2595,
+    "salePrice": 2595,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/5/258a60fNike-IO2730-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753359",
+    "name": "Nike Sportswear Women's Tight Cropped Polo",
+    "category": "clothing",
+    "price": 2595,
+    "salePrice": 2206,
+    "discount": 15,
+    "color": "Purple",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IO2730-583_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753360",
+    "name": "AS W NSW LTWT UV PROTECTIVE PA Nike AS W NSW LTWT UV PROTECTIVE PA",
+    "category": "clothing",
+    "price": 5295,
+    "salePrice": 4501,
+    "discount": 15,
+    "color": "Purple",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/1/71f6d8eNike-IO3377-583_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753362",
+    "name": "Nike Sportswear Women's Oversized Tracksuit Jacket",
+    "category": "clothing",
+    "price": 6495,
+    "salePrice": 5521,
+    "discount": 15,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IQ3165-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753366",
+    "name": "Nike Sportswear Women's Loose High-Waisted Tracksuit Bottoms",
+    "category": "clothing",
+    "price": 4995,
+    "salePrice": 4246,
+    "discount": 15,
+    "color": "Brown",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/3/833053dNike-IQ3167-236_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753368",
+    "name": "Nike Sportswear Women's Oversized Jersey",
+    "category": "clothing",
+    "price": 4295,
+    "salePrice": 4295,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/1/71f6d8eNike-IQ6138-101_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753371",
+    "name": "Jordan Nike Jordan Women's Realtree T-Shirt",
+    "category": "clothing",
+    "price": 2495,
+    "salePrice": 2495,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IU7255-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753372",
+    "name": "Nike Sportswear Women's Oversized Mid-Rise French Terry Bermuda Shorts",
+    "category": "clothing",
+    "price": 4295,
+    "salePrice": 3651,
+    "discount": 15,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-IR1647-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753373",
+    "name": "Jordan Women's Realtree T-Shirt",
+    "category": "clothing",
+    "price": 2495,
+    "salePrice": 2495,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IU7255-100_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753376",
+    "name": "Nike Sportswear Women's Loose Coaches Jacket",
+    "category": "clothing",
+    "price": 5495,
+    "salePrice": 3847,
+    "discount": 30,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IU1975-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  },
+  {
+    "id": "27753377",
+    "name": "Jordan Flight Women's Jersey",
+    "category": "clothing",
+    "price": 3695,
+    "salePrice": 3141,
+    "discount": 15,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/9/094e755Nike-IV5223-100_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": false,
+    "isTop": false
+  }
+]
