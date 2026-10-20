@@ -217,7 +217,7 @@ function filterProducts(list, query = {}) {
 function responseList(list, query = {}) {
   const filtered = filterProducts(list, query);
   const page = Math.max(1, parseInt(query.page,10) || 1);
-  const requestedLimit = query.limit === undefined ? filtered.length : (parseInt(query.limit,10) || 20);
+  const requestedLimit = query.limit === undefined ? filtered.length : (parseInt(query.limit,10) || 100);
   const limit = Math.min(1000, Math.max(1, requestedLimit));
   const start = query.page === undefined && query.limit === undefined ? 0 : (page-1)*limit;
   return { success:true, count:Math.min(limit,Math.max(0,filtered.length-start)), total:filtered.length, page, limit, totalPages:Math.ceil(filtered.length/limit), data:filtered.slice(start,start+limit) };
