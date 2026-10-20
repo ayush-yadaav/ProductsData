@@ -1,283 +1,5 @@
 [
   {
-    "id": "prod-006",
-    "name": "Court Shatter Low Sneakers",
-    "category": "accessories",
-    "price": 6799,
-    "salePrice": 4419,
-    "discount": 35,
-    "color": "Red",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_350,h_350/global/399844/01/sv01/fnd/IND/fmt/png/Court-Shatter-Low-Sneakers",
-    "sizes": [
-      "7",
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": false
-  },
-  {
-    "id": "prod-031",
-    "name": "Court Shatter Men's Sneakers",
-    "category": "accessories",
-    "price": 4499,
-    "salePrice": 2699,
-    "discount": 40,
-    "color": "Olive",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_350,h_350/global/402185/02/sv01/fnd/IND/fmt/png/Court-Shatter-Men's-Sneakers",
-    "sizes": [
-      "7",
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "prod-042",
-    "name": "Badminton Smash Sprint Non marking Indoor Shoes",
-    "category": "shoes",
-    "price": 7699,
-    "salePrice": 4619,
-    "discount": 40,
-    "color": "Navy",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_350,h_350/global/109304/04/sv01/fnd/IND/fmt/png/Badminton-Smash-Sprint-Non-marking-Indoor-Shoes",
-    "sizes": [
-      "7",
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "prod-050",
-    "name": "LIGA Adjustable Football Cap",
-    "category": "accessories",
-    "price": 1099,
-    "salePrice": 714,
-    "discount": 35,
-    "color": "Puma Red-Puma Black",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/026585/01/fnd/IND/fmt/png/LIGA-Adjustable-Football-Cap",
-    "sizes": [
-      "One Size"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": false
-  },
-  {
-    "id": "prod-051",
-    "name": "Caven 2.0 Res Sneakers",
-    "category": "shoes",
-    "price": 6999,
-    "salePrice": 4059,
-    "discount": 42,
-    "color": "PUMA White-Rose Quartz-Metallic Gold",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/404699/06/sv01/fnd/IND/fmt/png/Caven-2.0-Res-Sneakers",
-    "sizes": [
-      "7",
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "prod-052",
-    "name": "Football 2025 Men’s Home Replica Jersey",
-    "category": "clothing",
-    "price": 1999,
-    "salePrice": 1199,
-    "discount": 40,
-    "color": "Team Light Blue",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/607641/01/mod01/fnd/IND/fmt/png/Football-2025-Men’s-Home-Replica-Jersey",
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "prod-054",
-    "name": "Essentials 2 Colour No.1 Logo Men's Sweatpants",
-    "category": "clothing",
-    "price": 3299,
-    "salePrice": 1979,
-    "discount": 40,
-    "color": "PUMA Black",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/684713/01/mod01/fnd/IND/fmt/png/Essentials-2-Colour-No.1-Logo-Men's-Sweatpants",
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "prod-058",
-    "name": "Essentials Elevated Men's Crew Sweatshirt",
-    "category": "clothing",
-    "price": 3499,
-    "salePrice": 2099,
-    "discount": 40,
-    "color": "PUMA Black-warm white",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/694719/51/mod01/fnd/IND/fmt/png/Essentials-Elevated-Men's-Crew-Sweatshirt",
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "prod-060",
-    "name": "Dezhyphr Men's Sneakers",
-    "category": "shoes",
-    "price": 7999,
-    "salePrice": 3759,
-    "discount": 53,
-    "color": "PUMA White-PUMA Red-Pelé Yellow-PUMA Silver",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/313300/03/sv01/fnd/IND/fmt/png/Dezhyphr-Men's-Sneakers",
-    "sizes": [
-      "7",
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "prod-065",
-    "name": "Zestylite Men's Sneakers",
-    "category": "shoes",
-    "price": 4499,
-    "salePrice": 2339,
-    "discount": 48,
-    "color": "PUMA Black-Ultra Orange-PUMA White",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/394648/01/sv01/fnd/IND/fmt/png/Zestylite-Men's-Sneakers",
-    "sizes": [
-      "7",
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "prod-068",
-    "name": "Scuderia Ferrari Fanwear Baseball Cap",
-    "category": "accessories",
-    "price": 1799,
-    "salePrice": 1169,
-    "discount": 35,
-    "color": "Puma Black",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/022527/02/fnd/IND/fmt/png/Scuderia-Ferrari-Fanwear-Baseball-Cap",
-    "sizes": [
-      "One Size"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": false
-  },
-  {
-    "id": "prod-069",
-    "name": "PUMATECH Men's Full-Zip Hoodie",
-    "category": "clothing",
-    "price": 5999,
-    "salePrice": 3599,
-    "discount": 40,
-    "color": "PUMA Black",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/694490/01/mod01/fnd/IND/fmt/png/PUMATECH-Men's-Full-Zip-Hoodie",
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "691855_41",
-    "name": "Essentials Elevated Women's Crew Neck Tee",
-    "category": "clothing",
-    "price": 1499,
-    "salePrice": 974,
-    "discount": 35,
-    "color": "Fuchsia Glow",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/691855/41/mod01/fnd/IND/fmt/png/Essentials-Elevated-Women's-Crew-Neck-Tee",
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "gender": "women",
-    "isFeatured": true,
-    "isTop": false
-  },
-  {
-    "id": "027431_09",
-    "name": "Metal Cat Classic Adjustable Baseball Cap",
-    "category": "accessories",
-    "price": 1299,
-    "salePrice": 714,
-    "discount": 45,
-    "color": "Adriatic",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/027431/09/fnd/IND/fmt/png/Metal-Cat-Classic-Adjustable-Baseball-Cap",
-    "sizes": [
-      "One Size"
-    ],
-    "gender": "women",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
     "id": "387403_04",
     "name": "Truffle Sneakers",
     "category": "shoes",
@@ -295,45 +17,19 @@
     ],
     "gender": "women",
     "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "091056_01",
-    "name": "Leather Embossed Bi-Fold Wallet",
-    "category": "accessories",
-    "price": 1999,
-    "salePrice": 1199,
-    "discount": 40,
-    "color": "PUMA Black",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/091056/01/fnd/IND/fmt/png/Leather-Embossed-Bi-Fold-Wallet",
-    "sizes": [
-      "One Size"
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Truffle Sneakers designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.4,
+    "reviewCount": 390,
+    "sku": "SW-387403-04",
+    "tags": [
+      "women",
+      "shoes",
+      "sale",
+      "sportswear"
     ],
-    "gender": "women",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "682396_01",
-    "name": "Essentials Small No. 1 Logo Women's Comfort Hoodie",
-    "category": "clothing",
-    "price": 4999,
-    "salePrice": 2999,
-    "discount": 40,
-    "color": "PUMA Black",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/682396/01/mod01/fnd/IND/fmt/png/Essentials-Small-No.-1-Logo-Women's-Comfort-Hoodie",
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "gender": "women",
-    "isFeatured": true,
-    "isTop": true
+    "isNewArrival": false
   },
   {
     "id": "395002_02",
@@ -355,7 +51,867 @@
     ],
     "gender": "women",
     "isFeatured": true,
-    "isTop": true
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Adelina Women's Ballerina Shoes designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.8,
+    "reviewCount": 199,
+    "sku": "SW-395002-02",
+    "tags": [
+      "women",
+      "shoes",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "new-015",
+    "sku": "SW-NEW-015",
+    "name": "PUMA Utility Crossbody Bag",
+    "brand": "PUMA",
+    "category": "accessories",
+    "gender": "men",
+    "price": 1799,
+    "salePrice": 1259,
+    "discount": 30,
+    "color": "Olive",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "PUMA Utility Crossbody Bag offers a versatile sportswear look with comfort-focused design for everyday use and active routines.",
+    "rating": 4.0,
+    "reviewCount": 133,
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "puma",
+      "new-arrival"
+    ],
+    "isFeatured": true,
+    "isTop": true,
+    "isNewArrival": true
+  },
+  {
+    "id": "24809359",
+    "name": "Nike Sportswear Chill Knit Women's T-shirt",
+    "category": "clothing",
+    "price": 2195,
+    "salePrice": 1537,
+    "discount": 30,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FV5509-100_1.jpg",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Nike",
+    "description": "Nike Sportswear Chill Knit Women's T-shirt designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.0,
+    "reviewCount": 64,
+    "sku": "SW-24809359",
+    "tags": [
+      "women",
+      "clothing",
+      "sale",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "313130_01",
+    "name": "PUMA SmoothRest High-Rebound Running Shoes",
+    "category": "shoes",
+    "price": 6999,
+    "salePrice": 4199,
+    "discount": 40,
+    "color": "PUMA Black-PUMA White-Glacial Gray",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/313130/01/sv01/fnd/IND/fmt/png/PUMA-SmoothRest-High-Rebound-Running-Shoes",
+    "sizes": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Puma",
+    "description": "PUMA SmoothRest High-Rebound Running Shoes designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.1,
+    "reviewCount": 162,
+    "sku": "SW-313130-01",
+    "tags": [
+      "women",
+      "shoes",
+      "sale",
+      "puma"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "24928850",
+    "name": "Nike Astrograbber Leather Women's Shoes",
+    "category": "shoes",
+    "price": 10795,
+    "salePrice": 5398,
+    "discount": 50,
+    "color": "Green",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-II1259-300_1.jpg",
+    "sizes": [
+      "UK 4",
+      "UK 5",
+      "UK 6"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Nike",
+    "description": "Nike Astrograbber Leather Women's Shoes designed for everyday comfort, versatile styling, and active days.",
+    "rating": 3.8,
+    "reviewCount": 391,
+    "sku": "SW-24928850",
+    "tags": [
+      "women",
+      "shoes",
+      "sale",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-054",
+    "name": "Essentials 2 Colour No.1 Logo Men's Sweatpants",
+    "category": "clothing",
+    "price": 3299,
+    "salePrice": 1979,
+    "discount": 40,
+    "color": "PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/684713/01/mod01/fnd/IND/fmt/png/Essentials-2-Colour-No.1-Logo-Men's-Sweatpants",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Essentials 2 Colour No.1 Logo Men's Sweatpants designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.5,
+    "reviewCount": 25,
+    "sku": "SW-054",
+    "tags": [
+      "men",
+      "clothing",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "691855_41",
+    "name": "Essentials Elevated Women's Crew Neck Tee",
+    "category": "clothing",
+    "price": 1499,
+    "salePrice": 974,
+    "discount": 35,
+    "color": "Fuchsia Glow",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/691855/41/mod01/fnd/IND/fmt/png/Essentials-Elevated-Women's-Crew-Neck-Tee",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Essentials Elevated Women's Crew Neck Tee designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.6,
+    "reviewCount": 57,
+    "sku": "SW-691855-41",
+    "tags": [
+      "women",
+      "clothing",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "092100_02",
+    "name": "PUMA PLUSH Women’s Halfmoon Sling Bag",
+    "category": "accessories",
+    "price": 1499,
+    "salePrice": 899,
+    "discount": 40,
+    "color": "Rose Dust",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/092100/02/fnd/IND/fmt/png/PUMA-PLUSH-Women’s-Halfmoon-Sling-Bag",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Puma",
+    "description": "PUMA PLUSH Women’s Halfmoon Sling Bag designed for everyday comfort, versatile styling, and active days.",
+    "rating": 3.8,
+    "reviewCount": 421,
+    "sku": "SW-092100-02",
+    "tags": [
+      "women",
+      "accessories",
+      "sale",
+      "puma"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "26000129",
+    "name": "Nike Air Max 95 Big Bubble Women's Shoes",
+    "category": "shoes",
+    "price": 15995,
+    "salePrice": 9597,
+    "discount": 40,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HJ5996-001_1.jpg",
+    "sizes": [
+      "UK 4",
+      "UK 5",
+      "UK 6"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Nike",
+    "description": "Nike Air Max 95 Big Bubble Women's Shoes designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.0,
+    "reviewCount": 52,
+    "sku": "SW-26000129",
+    "tags": [
+      "women",
+      "shoes",
+      "sale",
+      "nike"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "id": "prod-065",
+    "name": "Zestylite Men's Sneakers",
+    "category": "shoes",
+    "price": 4499,
+    "salePrice": 2339,
+    "discount": 48,
+    "color": "PUMA Black-Ultra Orange-PUMA White",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/394648/01/sv01/fnd/IND/fmt/png/Zestylite-Men's-Sneakers",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Zestylite Men's Sneakers designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.4,
+    "reviewCount": 432,
+    "sku": "SW-065",
+    "tags": [
+      "men",
+      "shoes",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "24810372",
+    "name": "Nike Universa Women's High-Waisted 12.5cm (approx.) Biker Shorts with No Front Seam",
+    "category": "clothing",
+    "price": 3695,
+    "salePrice": 2587,
+    "discount": 30,
+    "color": "N/A",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HQ6833-010_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Nike",
+    "description": "Nike Universa Women's High-Waisted 12.5cm (approx.) Biker Shorts with No Front Seam designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.7,
+    "reviewCount": 101,
+    "sku": "SW-24810372",
+    "tags": [
+      "women",
+      "clothing",
+      "sale",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-031",
+    "name": "Court Shatter Men's Sneakers",
+    "category": "shoes",
+    "price": 4499,
+    "salePrice": 2699,
+    "discount": 40,
+    "color": "Olive",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_350,h_350/global/402185/02/sv01/fnd/IND/fmt/png/Court-Shatter-Men's-Sneakers",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Court Shatter Men's Sneakers designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.0,
+    "reviewCount": 148,
+    "sku": "SW-031",
+    "tags": [
+      "men",
+      "shoes",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-033",
+    "name": "Skyrocket Lite Running Shoes",
+    "category": "shoes",
+    "price": 8399,
+    "salePrice": 5039,
+    "discount": 40,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_350,h_350/global/379437/22/sv01/fnd/IND/fmt/png/Skyrocket-Lite-Running-Shoes",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Skyrocket Lite Running Shoes designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.1,
+    "reviewCount": 222,
+    "sku": "SW-033",
+    "tags": [
+      "men",
+      "shoes",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "new-013",
+    "sku": "SW-NEW-013",
+    "name": "PUMA Compact Gym Duffel",
+    "brand": "PUMA",
+    "category": "accessories",
+    "gender": "men",
+    "price": 2499,
+    "salePrice": 1749,
+    "discount": 30,
+    "color": "Grey",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "PUMA Compact Gym Duffel offers a versatile sportswear look with comfort-focused design for everyday use and active routines.",
+    "rating": 4.3,
+    "reviewCount": 75,
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "puma",
+      "new-arrival"
+    ],
+    "isFeatured": true,
+    "isTop": true,
+    "isNewArrival": true
+  },
+  {
+    "id": "prod-060",
+    "name": "Dezhyphr Men's Sneakers",
+    "category": "shoes",
+    "price": 7999,
+    "salePrice": 3759,
+    "discount": 53,
+    "color": "PUMA White-PUMA Red-Pelé Yellow-PUMA Silver",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/313300/03/sv01/fnd/IND/fmt/png/Dezhyphr-Men's-Sneakers",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Dezhyphr Men's Sneakers designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.8,
+    "reviewCount": 247,
+    "sku": "SW-060",
+    "tags": [
+      "men",
+      "shoes",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-068",
+    "name": "Scuderia Ferrari Fanwear Baseball Cap",
+    "category": "accessories",
+    "price": 1799,
+    "salePrice": 1169,
+    "discount": 35,
+    "color": "Puma Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/022527/02/fnd/IND/fmt/png/Scuderia-Ferrari-Fanwear-Baseball-Cap",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "PUMA",
+    "description": "Scuderia Ferrari Fanwear Baseball Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 3.9,
+    "reviewCount": 56,
+    "sku": "SW-068",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "puma"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "25984595",
+    "name": "Nike Club Unstructured Cap",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 598,
+    "discount": 50,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FZ5698-133_1.jpg",
+    "sizes": [
+      "S/M"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Nike",
+    "description": "Nike Club Unstructured Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.7,
+    "reviewCount": 95,
+    "sku": "SW-25984595",
+    "tags": [
+      "women",
+      "accessories",
+      "sale",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-058",
+    "name": "Essentials Elevated Men's Crew Sweatshirt",
+    "category": "clothing",
+    "price": 3499,
+    "salePrice": 2099,
+    "discount": 40,
+    "color": "PUMA Black-warm white",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/694719/51/mod01/fnd/IND/fmt/png/Essentials-Elevated-Men's-Crew-Sweatshirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Essentials Elevated Men's Crew Sweatshirt designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.7,
+    "reviewCount": 173,
+    "sku": "SW-058",
+    "tags": [
+      "men",
+      "clothing",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "027431_09",
+    "name": "Metal Cat Classic Adjustable Baseball Cap",
+    "category": "accessories",
+    "price": 1299,
+    "salePrice": 714,
+    "discount": 45,
+    "color": "Adriatic",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/027431/09/fnd/IND/fmt/png/Metal-Cat-Classic-Adjustable-Baseball-Cap",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Metal Cat Classic Adjustable Baseball Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.1,
+    "reviewCount": 168,
+    "sku": "SW-027431-09",
+    "tags": [
+      "women",
+      "accessories",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-063",
+    "name": "PUMATECH Elevated Men's Slim Full-Zip Hoodie",
+    "category": "clothing",
+    "price": 6499,
+    "salePrice": 3899,
+    "discount": 40,
+    "color": "Moody Gray",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/693951/34/mod01/fnd/IND/fmt/png/PUMATECH-Elevated-Men's-Slim-Full-Zip-Hoodie",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Puma",
+    "description": "PUMATECH Elevated Men's Slim Full-Zip Hoodie designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.3,
+    "reviewCount": 358,
+    "sku": "SW-063",
+    "tags": [
+      "men",
+      "clothing",
+      "sale",
+      "puma"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "27753376",
+    "name": "Nike Sportswear Women's Loose Coaches Jacket",
+    "category": "clothing",
+    "price": 5495,
+    "salePrice": 3847,
+    "discount": 30,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IU1975-010_1.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Nike",
+    "description": "Nike Sportswear Women's Loose Coaches Jacket designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.6,
+    "reviewCount": 484,
+    "sku": "SW-27753376",
+    "tags": [
+      "women",
+      "clothing",
+      "sale",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "091529_02",
+    "name": "Rider Backpack",
+    "category": "accessories",
+    "price": 2999,
+    "salePrice": 1799,
+    "discount": 40,
+    "color": "Clyde Royal",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/091529/02/fnd/IND/fmt/png/Rider-Backpack",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Rider Backpack designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.0,
+    "reviewCount": 94,
+    "sku": "SW-091529-02",
+    "tags": [
+      "women",
+      "accessories",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "091056_01",
+    "name": "Leather Embossed Bi-Fold Wallet",
+    "category": "accessories",
+    "price": 1999,
+    "salePrice": 1199,
+    "discount": 40,
+    "color": "PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/091056/01/fnd/IND/fmt/png/Leather-Embossed-Bi-Fold-Wallet",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Leather Embossed Bi-Fold Wallet designed for everyday comfort, versatile styling, and active days.",
+    "rating": 3.9,
+    "reviewCount": 14,
+    "sku": "SW-091056-01",
+    "tags": [
+      "women",
+      "accessories",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-039",
+    "name": "SoftridePro Leadpuff Men's Slides",
+    "category": "shoes",
+    "price": 9599,
+    "salePrice": 5759,
+    "discount": 40,
+    "color": "Olive",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_350,h_350/global/401904/02/sv01/fnd/IND/fmt/png/SoftridePro-Leadpuff-Men's-Slides",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "SoftridePro Leadpuff Men's Slides designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.4,
+    "reviewCount": 444,
+    "sku": "SW-039",
+    "tags": [
+      "men",
+      "shoes",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "682396_01",
+    "name": "Essentials Small No. 1 Logo Women's Comfort Hoodie",
+    "category": "clothing",
+    "price": 4999,
+    "salePrice": 2999,
+    "discount": 40,
+    "color": "PUMA Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/682396/01/mod01/fnd/IND/fmt/png/Essentials-Small-No.-1-Logo-Women's-Comfort-Hoodie",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Essentials Small No. 1 Logo Women's Comfort Hoodie designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.7,
+    "reviewCount": 125,
+    "sku": "SW-682396-01",
+    "tags": [
+      "women",
+      "clothing",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "402554_05",
+    "name": "CA Pro Lux II Premium Leather Shoes",
+    "category": "shoes",
+    "price": 8999,
+    "salePrice": 4679,
+    "discount": 48,
+    "color": "Feather Gray-Cool Dark Gray-Warm White",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/402554/05/sv01/fnd/IND/fmt/png/CA-Pro-Lux-II-Premium-Leather-Shoes",
+    "sizes": [
+      "4",
+      "6",
+      "8",
+      "9"
+    ],
+    "gender": "women",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "CA Pro Lux II Premium Leather Shoes designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.3,
+    "reviewCount": 310,
+    "sku": "SW-402554-05",
+    "tags": [
+      "women",
+      "shoes",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-052",
+    "name": "Football 2025 Men’s Home Replica Jersey",
+    "category": "clothing",
+    "price": 1999,
+    "salePrice": 1199,
+    "discount": 40,
+    "color": "Team Light Blue",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/607641/01/mod01/fnd/IND/fmt/png/Football-2025-Men’s-Home-Replica-Jersey",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Football 2025 Men’s Home Replica Jersey designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.4,
+    "reviewCount": 438,
+    "sku": "SW-052",
+    "tags": [
+      "men",
+      "clothing",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "id": "new-011",
+    "sku": "SW-NEW-011",
+    "name": "PUMA Everyday Training Backpack",
+    "brand": "PUMA",
+    "category": "accessories",
+    "gender": "men",
+    "price": 2999,
+    "salePrice": 2099,
+    "discount": 30,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "PUMA Everyday Training Backpack offers a versatile sportswear look with comfort-focused design for everyday use and active routines.",
+    "rating": 4.6,
+    "reviewCount": 337,
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "puma",
+      "new-arrival"
+    ],
+    "isFeatured": true,
+    "isTop": true,
+    "isNewArrival": true
   },
   {
     "id": "694047_01",
@@ -377,99 +933,203 @@
     ],
     "gender": "women",
     "isFeatured": true,
-    "isTop": false
-  },
-  {
-    "id": "402554_05",
-    "name": "CA Pro Lux II Premium Leather Shoes",
-    "category": "shoes",
-    "price": 8999,
-    "salePrice": 4679,
-    "discount": 48,
-    "color": "Feather Gray-Cool Dark Gray-Warm White",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/402554/05/sv01/fnd/IND/fmt/png/CA-Pro-Lux-II-Premium-Leather-Shoes",
-    "sizes": [
-      "4",
-      "6",
-      "8",
-      "9"
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Graphics Relaxed Running Vibes Women's Tee designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.2,
+    "reviewCount": 236,
+    "sku": "SW-694047-01",
+    "tags": [
+      "women",
+      "clothing",
+      "sale",
+      "sportswear"
     ],
-    "gender": "women",
-    "isFeatured": true,
-    "isTop": true
+    "isNewArrival": false
   },
   {
-    "id": "092100_02",
-    "name": "PUMA PLUSH Women’s Halfmoon Sling Bag",
+    "id": "prod-050",
+    "name": "LIGA Adjustable Football Cap",
     "category": "accessories",
-    "price": 1499,
-    "salePrice": 899,
-    "discount": 40,
-    "color": "Rose Dust",
+    "price": 1099,
+    "salePrice": 714,
+    "discount": 35,
+    "color": "Puma Red-Puma Black",
     "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/092100/02/fnd/IND/fmt/png/PUMA-PLUSH-Women’s-Halfmoon-Sling-Bag",
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/026585/01/fnd/IND/fmt/png/LIGA-Adjustable-Football-Cap",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "LIGA Adjustable Football Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.3,
+    "reviewCount": 364,
+    "sku": "SW-050",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-049",
+    "name": "PUMA x ASTON MARTIN ARAMCO F1® TEAM Replica Tee",
+    "category": "clothing",
+    "price": 7999,
+    "salePrice": 4799,
+    "discount": 40,
+    "color": "Green Lux-Deluxe",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/713897/01/mod01/fnd/IND/fmt/png/PUMA-x-ASTON-MARTIN-ARAMCO-F1®-TEAM-Replica-Tee",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Puma",
+    "description": "PUMA x ASTON MARTIN ARAMCO F1® TEAM Replica Tee designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.9,
+    "reviewCount": 327,
+    "sku": "SW-049",
+    "tags": [
+      "men",
+      "clothing",
+      "sale",
+      "puma"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-051",
+    "name": "Caven 2.0 Res Sneakers",
+    "category": "shoes",
+    "price": 6999,
+    "salePrice": 4059,
+    "discount": 42,
+    "color": "PUMA White-Rose Quartz-Metallic Gold",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/404699/06/sv01/fnd/IND/fmt/png/Caven-2.0-Res-Sneakers",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Caven 2.0 Res Sneakers designed for everyday comfort, versatile styling, and active days.",
+    "rating": 5.0,
+    "reviewCount": 401,
+    "sku": "SW-051",
+    "tags": [
+      "men",
+      "shoes",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "new-012",
+    "sku": "SW-NEW-012",
+    "name": "PUMA Sport Logo Cap",
+    "brand": "PUMA",
+    "category": "accessories",
+    "gender": "men",
+    "price": 1299,
+    "salePrice": 899,
+    "discount": 31,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "PUMA Sport Logo Cap offers a versatile sportswear look with comfort-focused design for everyday use and active routines.",
+    "rating": 4.0,
+    "reviewCount": 46,
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "puma",
+      "new-arrival"
+    ],
+    "isFeatured": true,
+    "isTop": true,
+    "isNewArrival": true
+  },
+  {
+    "id": "prod-062",
+    "name": "Scuderia Ferrari Men's Premium Comfort Track Jacket",
+    "category": "clothing",
+    "price": 7999,
+    "salePrice": 4799,
+    "discount": 40,
+    "color": "Midnight Petrol",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/638774/14/mod01/fnd/IND/fmt/png/Scuderia-Ferrari-Men's-Premium-Comfort-Track-Jacket",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "PUMA",
+    "description": "Scuderia Ferrari Men's Premium Comfort Track Jacket designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.9,
+    "reviewCount": 321,
+    "sku": "SW-062",
+    "tags": [
+      "men",
+      "clothing",
+      "sale",
+      "puma"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "091382_02",
+    "name": "Core Up Women’s Mini Shoulder Grip Bag 1.5L",
+    "category": "accessories",
+    "price": 1799,
+    "salePrice": 1169,
+    "discount": 35,
+    "color": "Grape Mist",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/091382/02/fnd/IND/fmt/png/Core-Up-Women’s-Mini-Shoulder-Grip-Bag-1.5L",
     "sizes": [
       "One Size"
     ],
     "gender": "women",
     "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "24809359",
-    "name": "Nike Sportswear Chill Knit Women's T-shirt",
-    "category": "clothing",
-    "price": 2195,
-    "salePrice": 1537,
-    "discount": 30,
-    "color": "White",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FV5509-100_1.jpg",
-    "sizes": [
-      "M",
-      "L",
-      "XL",
-      "2XL"
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "Core Up Women’s Mini Shoulder Grip Bag 1.5L designed for everyday comfort, versatile styling, and active days.",
+    "rating": 3.8,
+    "reviewCount": 427,
+    "sku": "SW-091382-02",
+    "tags": [
+      "women",
+      "accessories",
+      "sale",
+      "sportswear"
     ],
-    "gender": "women",
-    "isFeatured": true,
-    "isTop": false
-  },
-  {
-    "id": "25984595",
-    "name": "Nike Club Unstructured Cap",
-    "category": "accessories",
-    "price": 1195,
-    "salePrice": 598,
-    "discount": 50,
-    "color": "White",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FZ5698-133_1.jpg",
-    "sizes": [
-      "S/M"
-    ],
-    "gender": "women",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "24928850",
-    "name": "Nike Astrograbber Leather Women's Shoes",
-    "category": "shoes",
-    "price": 10795,
-    "salePrice": 5398,
-    "discount": 50,
-    "color": "Green",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-II1259-300_1.jpg",
-    "sizes": [
-      "UK 4",
-      "UK 5",
-      "UK 6"
-    ],
-    "gender": "women",
-    "isFeatured": true,
-    "isTop": true
+    "isNewArrival": false
   }
 ]

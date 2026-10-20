@@ -1,164 +1,34 @@
 [
   {
-    "id": "prod-006",
-    "name": "Court Shatter Low Sneakers",
+    "id": "prod-119",
+    "name": "Nike Dri-FIT Club Unstructured Metal Swoosh Cap",
     "category": "accessories",
-    "price": 6799,
-    "salePrice": 4419,
-    "discount": 35,
-    "color": "Red",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_350,h_350/global/399844/01/sv01/fnd/IND/fmt/png/Court-Shatter-Low-Sneakers",
-    "sizes": [
-      "7",
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": false
-  },
-  {
-    "id": "prod-031",
-    "name": "Court Shatter Men's Sneakers",
-    "category": "accessories",
-    "price": 4499,
-    "salePrice": 2699,
-    "discount": 40,
-    "color": "Olive",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_350,h_350/global/402185/02/sv01/fnd/IND/fmt/png/Court-Shatter-Men's-Sneakers",
-    "sizes": [
-      "7",
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": true
-  },
-  {
-    "id": "prod-050",
-    "name": "LIGA Adjustable Football Cap",
-    "category": "accessories",
-    "price": 1099,
-    "salePrice": 714,
-    "discount": 35,
-    "color": "Puma Red-Puma Black",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/026585/01/fnd/IND/fmt/png/LIGA-Adjustable-Football-Cap",
-    "sizes": [
-      "One Size"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": false
-  },
-  {
-    "id": "prod-064",
-    "name": "Running Cap",
-    "category": "accessories",
-    "price": 799,
-    "salePrice": 639,
-    "discount": 20,
-    "color": "Peacoat",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/023791/03/fnd/IND/fmt/png/Running-Cap",
-    "sizes": [
-      "One Size"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-068",
-    "name": "Scuderia Ferrari Fanwear Baseball Cap",
-    "category": "accessories",
-    "price": 1799,
-    "salePrice": 1169,
-    "discount": 35,
-    "color": "Puma Black",
-    "inStock": true,
-    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/022527/02/fnd/IND/fmt/png/Scuderia-Ferrari-Fanwear-Baseball-Cap",
-    "sizes": [
-      "One Size"
-    ],
-    "gender": "men",
-    "isFeatured": true,
-    "isTop": false
-  },
-  {
-    "id": "prod-111",
-    "name": "Nike Aura Floral Crescent Cross-Body Bag (4L)",
-    "category": "accessories",
-    "price": 3495,
-    "salePrice": 3495,
-    "discount": 0,
-    "color": "Red",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IQ1268-654_1.jpg",
-    "sizes": [
-      "One Size"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-112",
-    "name": "Nike Aura Floral Waist Pack (2L)",
-    "category": "accessories",
-    "price": 2895,
-    "salePrice": 2895,
-    "discount": 0,
-    "color": "Red",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IQ1270-654_1.jpg",
-    "sizes": [
-      "One Size"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-113",
-    "name": "Nike Heritage Sweep Backpack (25L)",
-    "category": "accessories",
-    "price": 3895,
-    "salePrice": 3311,
+    "price": 1295,
+    "salePrice": 1101,
     "discount": 15,
-    "color": "Black",
+    "color": "Green",
     "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IU4959-010_1.jpg",
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5372-303_1.jpg",
     "sizes": [
-      "One Size"
+      "S/M",
+      "M/L",
+      "L/XL"
     ],
     "gender": "men",
     "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-114",
-    "name": "Nike Aura Floral Cross-Body Bag (5L)",
-    "category": "accessories",
-    "price": 2995,
-    "salePrice": 2995,
-    "discount": 0,
-    "color": "Black",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IV5665-010_1.jpg",
-    "sizes": [
-      "One Size"
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Dri-FIT Club Unstructured Metal Swoosh Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.5,
+    "reviewCount": 482,
+    "sku": "SW-119",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "nike"
     ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
+    "isNewArrival": false
   },
   {
     "id": "prod-115",
@@ -176,248 +46,19 @@
     ],
     "gender": "men",
     "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-116",
-    "name": "Nike Dri-FIT Club Structured Swoosh Cap",
-    "category": "accessories",
-    "price": 1195,
-    "salePrice": 1195,
-    "discount": 0,
-    "color": "Brown",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5625-247_1.jpg",
-    "sizes": [
-      "S/M",
-      "M/L",
-      "L/XL"
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Club Unstructured Futura Wash Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.3,
+    "reviewCount": 334,
+    "sku": "SW-115",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "nike"
     ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-117",
-    "name": "Nike Apex Futura Washed Bucket Hat",
-    "category": "accessories",
-    "price": 1595,
-    "salePrice": 1595,
-    "discount": 0,
-    "color": "Black",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5381-010_1.jpg",
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-118",
-    "name": "Nike Dri-FIT Club Structured Metal Logo Cap",
-    "category": "accessories",
-    "price": 1295,
-    "salePrice": 1101,
-    "discount": 15,
-    "color": "White",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5371-100_1.jpg",
-    "sizes": [
-      "S/M",
-      "M/L",
-      "L/XL"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-119",
-    "name": "Nike Dri-FIT Club Unstructured Metal Swoosh Cap",
-    "category": "accessories",
-    "price": 1295,
-    "salePrice": 1101,
-    "discount": 15,
-    "color": "Green",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5372-303_1.jpg",
-    "sizes": [
-      "S/M",
-      "M/L",
-      "L/XL"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-120",
-    "name": "Nike Dri-FIT Club Unstructured Featherlight Cap",
-    "category": "accessories",
-    "price": 1595,
-    "salePrice": 1356,
-    "discount": 15,
-    "color": "Red",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5682-654_1.jpg",
-    "sizes": [
-      "S/M",
-      "M/L",
-      "L/XL"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-121",
-    "name": "Nike Dri-FIT ADV Fly Unstructured AeroBill AeroAdapt Cap",
-    "category": "accessories",
-    "price": 2295,
-    "salePrice": 2295,
-    "discount": 0,
-    "color": "White",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FJ0736-100_1.jpg",
-    "sizes": [
-      "S/M",
-      "M/L",
-      "L/XL"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-122",
-    "name": "Jordan Jumpman Pro Nike Jordan Jumpman Pro Adjustable Cap",
-    "category": "accessories",
-    "price": 1695,
-    "salePrice": 1695,
-    "discount": 0,
-    "color": "Red",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FV5296-687_1.jpg",
-    "sizes": [
-      "S/M",
-      "M/L",
-      "L/XL"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-123",
-    "name": "Nike Club Unstructured Denim Cap",
-    "category": "accessories",
-    "price": 1995,
-    "salePrice": 1696,
-    "discount": 15,
-    "color": "Grey",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HF0383-060_1.jpg",
-    "sizes": [
-      "M/L"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-124",
-    "name": "Jordan Rise Nike Jordan Rise Structured Metal Jumpman Hat",
-    "category": "accessories",
-    "price": 1195,
-    "salePrice": 1016,
-    "discount": 15,
-    "color": "Red",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HM5750-687_1.jpg",
-    "sizes": [
-      "S/M",
-      "M/L",
-      "L/XL"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-125",
-    "name": "Jordan Club Unstructured Cap",
-    "category": "accessories",
-    "price": 1495,
-    "salePrice": 1271,
-    "discount": 15,
-    "color": "Black",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IM9067-010_1.jpg",
-    "sizes": [
-      "S/M",
-      "L/XL"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-126",
-    "name": "Jordan Club Unstructured Cap",
-    "category": "accessories",
-    "price": 1495,
-    "salePrice": 1271,
-    "discount": 15,
-    "color": "Red",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-IM9067-657_1.jpg",
-    "sizes": [
-      "S/M",
-      "L/XL"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-127",
-    "name": "Jordan Rise Structured Cap",
-    "category": "accessories",
-    "price": 1695,
-    "salePrice": 1695,
-    "discount": 0,
-    "color": "Blue",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IM9072-485_1.jpg",
-    "sizes": [
-      "S/M",
-      "L/XL"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
-  },
-  {
-    "id": "prod-128",
-    "name": "Jordan Pro Unstructured Cap",
-    "category": "accessories",
-    "price": 1995,
-    "salePrice": 1995,
-    "discount": 0,
-    "color": "Black",
-    "inStock": true,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IM9077-010_1.jpg",
-    "sizes": [
-      "S/M",
-      "L/XL"
-    ],
-    "gender": "men",
-    "isFeatured": false,
-    "isTop": false
+    "isNewArrival": false
   },
   {
     "id": "prod-129",
@@ -436,6 +77,738 @@
     ],
     "gender": "men",
     "isFeatured": false,
-    "isTop": false
+    "isTop": false,
+    "brand": "Jordan",
+    "description": "Jordan Rise Structured Camo Hat designed for everyday comfort, versatile styling, and active days.",
+    "rating": 5.0,
+    "reviewCount": 365,
+    "sku": "SW-129",
+    "tags": [
+      "men",
+      "accessories",
+      "new-arrival",
+      "jordan"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-125",
+    "name": "Jordan Club Unstructured Cap",
+    "category": "accessories",
+    "price": 1495,
+    "salePrice": 1271,
+    "discount": 15,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IM9067-010_1.jpg",
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Jordan",
+    "description": "Jordan Club Unstructured Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.8,
+    "reviewCount": 217,
+    "sku": "SW-125",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "jordan"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-128",
+    "name": "Jordan Pro Unstructured Cap",
+    "category": "accessories",
+    "price": 1995,
+    "salePrice": 1995,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IM9077-010_1.jpg",
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Jordan",
+    "description": "Jordan Pro Unstructured Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.3,
+    "reviewCount": 328,
+    "sku": "SW-128",
+    "tags": [
+      "men",
+      "accessories",
+      "new-arrival",
+      "jordan"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-112",
+    "name": "Nike Aura Floral Waist Pack (2L)",
+    "category": "accessories",
+    "price": 2895,
+    "salePrice": 2895,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IQ1270-654_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Aura Floral Waist Pack (2L) designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.8,
+    "reviewCount": 223,
+    "sku": "SW-112",
+    "tags": [
+      "men",
+      "accessories",
+      "new-arrival",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-113",
+    "name": "Nike Heritage Sweep Backpack (25L)",
+    "category": "accessories",
+    "price": 3895,
+    "salePrice": 3311,
+    "discount": 15,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-IU4959-010_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Heritage Sweep Backpack (25L) designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.2,
+    "reviewCount": 260,
+    "sku": "SW-113",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-124",
+    "name": "Jordan Rise Nike Jordan Rise Structured Metal Jumpman Hat",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 1016,
+    "discount": 15,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HM5750-687_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Jordan",
+    "description": "Jordan Rise Nike Jordan Rise Structured Metal Jumpman Hat designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.1,
+    "reviewCount": 180,
+    "sku": "SW-124",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "jordan"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-111",
+    "name": "Nike Aura Floral Crescent Cross-Body Bag (4L)",
+    "category": "accessories",
+    "price": 3495,
+    "salePrice": 3495,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IQ1268-654_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Aura Floral Crescent Cross-Body Bag (4L) designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.1,
+    "reviewCount": 186,
+    "sku": "SW-111",
+    "tags": [
+      "men",
+      "accessories",
+      "new-arrival",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "new-013",
+    "sku": "SW-NEW-013",
+    "name": "PUMA Compact Gym Duffel",
+    "brand": "PUMA",
+    "category": "accessories",
+    "gender": "men",
+    "price": 2499,
+    "salePrice": 1749,
+    "discount": 30,
+    "color": "Grey",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "PUMA Compact Gym Duffel offers a versatile sportswear look with comfort-focused design for everyday use and active routines.",
+    "rating": 4.3,
+    "reviewCount": 75,
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "puma",
+      "new-arrival"
+    ],
+    "isFeatured": true,
+    "isTop": true,
+    "isNewArrival": true
+  },
+  {
+    "id": "prod-064",
+    "name": "Running Cap",
+    "category": "accessories",
+    "price": 799,
+    "salePrice": 639,
+    "discount": 20,
+    "color": "Peacoat",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/023791/03/fnd/IND/fmt/png/Running-Cap",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Sportswear",
+    "description": "Running Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 5.0,
+    "reviewCount": 395,
+    "sku": "SW-064",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-117",
+    "name": "Nike Apex Futura Washed Bucket Hat",
+    "category": "accessories",
+    "price": 1595,
+    "salePrice": 1595,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5381-010_1.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Apex Futura Washed Bucket Hat designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.4,
+    "reviewCount": 408,
+    "sku": "SW-117",
+    "tags": [
+      "men",
+      "accessories",
+      "new-arrival",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-050",
+    "name": "LIGA Adjustable Football Cap",
+    "category": "accessories",
+    "price": 1099,
+    "salePrice": 714,
+    "discount": 35,
+    "color": "Puma Red-Puma Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/026585/01/fnd/IND/fmt/png/LIGA-Adjustable-Football-Cap",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "Sportswear",
+    "description": "LIGA Adjustable Football Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.3,
+    "reviewCount": 364,
+    "sku": "SW-050",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "sportswear"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-123",
+    "name": "Nike Club Unstructured Denim Cap",
+    "category": "accessories",
+    "price": 1995,
+    "salePrice": 1696,
+    "discount": 15,
+    "color": "Grey",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-HF0383-060_1.jpg",
+    "sizes": [
+      "M/L"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Club Unstructured Denim Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.7,
+    "reviewCount": 143,
+    "sku": "SW-123",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-120",
+    "name": "Nike Dri-FIT Club Unstructured Featherlight Cap",
+    "category": "accessories",
+    "price": 1595,
+    "salePrice": 1356,
+    "discount": 15,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5682-654_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Dri-FIT Club Unstructured Featherlight Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 3.9,
+    "reviewCount": 32,
+    "sku": "SW-120",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "nike"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "id": "prod-122",
+    "name": "Jordan Jumpman Pro Nike Jordan Jumpman Pro Adjustable Cap",
+    "category": "accessories",
+    "price": 1695,
+    "salePrice": 1695,
+    "discount": 0,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FV5296-687_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Jordan",
+    "description": "Jordan Jumpman Pro Nike Jordan Jumpman Pro Adjustable Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.0,
+    "reviewCount": 106,
+    "sku": "SW-122",
+    "tags": [
+      "men",
+      "accessories",
+      "new-arrival",
+      "jordan"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "new-015",
+    "sku": "SW-NEW-015",
+    "name": "PUMA Utility Crossbody Bag",
+    "brand": "PUMA",
+    "category": "accessories",
+    "gender": "men",
+    "price": 1799,
+    "salePrice": 1259,
+    "discount": 30,
+    "color": "Olive",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "PUMA Utility Crossbody Bag offers a versatile sportswear look with comfort-focused design for everyday use and active routines.",
+    "rating": 4.0,
+    "reviewCount": 133,
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "puma",
+      "new-arrival"
+    ],
+    "isFeatured": true,
+    "isTop": true,
+    "isNewArrival": true
+  },
+  {
+    "id": "new-012",
+    "sku": "SW-NEW-012",
+    "name": "PUMA Sport Logo Cap",
+    "brand": "PUMA",
+    "category": "accessories",
+    "gender": "men",
+    "price": 1299,
+    "salePrice": 899,
+    "discount": 31,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "PUMA Sport Logo Cap offers a versatile sportswear look with comfort-focused design for everyday use and active routines.",
+    "rating": 4.0,
+    "reviewCount": 46,
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "puma",
+      "new-arrival"
+    ],
+    "isFeatured": true,
+    "isTop": true,
+    "isNewArrival": true
+  },
+  {
+    "id": "prod-121",
+    "name": "Nike Dri-FIT ADV Fly Unstructured AeroBill AeroAdapt Cap",
+    "category": "accessories",
+    "price": 2295,
+    "salePrice": 2295,
+    "discount": 0,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FJ0736-100_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Dri-FIT ADV Fly Unstructured AeroBill AeroAdapt Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.6,
+    "reviewCount": 69,
+    "sku": "SW-121",
+    "tags": [
+      "men",
+      "accessories",
+      "new-arrival",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "new-014",
+    "sku": "SW-NEW-014",
+    "name": "PUMA Cushioned Crew Socks 3-Pack",
+    "brand": "PUMA",
+    "category": "accessories",
+    "gender": "men",
+    "price": 799,
+    "salePrice": 599,
+    "discount": 25,
+    "color": "White",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1582966772680-860e372bb558?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "39-42",
+      "43-46"
+    ],
+    "description": "PUMA Cushioned Crew Socks 3-Pack offers a versatile sportswear look with comfort-focused design for everyday use and active routines.",
+    "rating": 4.6,
+    "reviewCount": 104,
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "puma",
+      "new-arrival"
+    ],
+    "isFeatured": false,
+    "isTop": false,
+    "isNewArrival": true
+  },
+  {
+    "id": "prod-068",
+    "name": "Scuderia Ferrari Fanwear Baseball Cap",
+    "category": "accessories",
+    "price": 1799,
+    "salePrice": 1169,
+    "discount": 35,
+    "color": "Puma Black",
+    "inStock": true,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/022527/02/fnd/IND/fmt/png/Scuderia-Ferrari-Fanwear-Baseball-Cap",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "men",
+    "isFeatured": true,
+    "isTop": true,
+    "brand": "PUMA",
+    "description": "Scuderia Ferrari Fanwear Baseball Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 3.9,
+    "reviewCount": 56,
+    "sku": "SW-068",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "puma"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-114",
+    "name": "Nike Aura Floral Cross-Body Bag (5L)",
+    "category": "accessories",
+    "price": 2995,
+    "salePrice": 2995,
+    "discount": 0,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IV5665-010_1.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Aura Floral Cross-Body Bag (5L) designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.9,
+    "reviewCount": 297,
+    "sku": "SW-114",
+    "tags": [
+      "men",
+      "accessories",
+      "new-arrival",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-126",
+    "name": "Jordan Club Unstructured Cap",
+    "category": "accessories",
+    "price": 1495,
+    "salePrice": 1271,
+    "discount": 15,
+    "color": "Red",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/e081fc2Nike-IM9067-657_1.jpg",
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Jordan",
+    "description": "Jordan Club Unstructured Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.2,
+    "reviewCount": 254,
+    "sku": "SW-126",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "jordan"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-118",
+    "name": "Nike Dri-FIT Club Structured Metal Logo Cap",
+    "category": "accessories",
+    "price": 1295,
+    "salePrice": 1101,
+    "discount": 15,
+    "color": "White",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5371-100_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Dri-FIT Club Structured Metal Logo Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 3.8,
+    "reviewCount": 445,
+    "sku": "SW-118",
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-116",
+    "name": "Nike Dri-FIT Club Structured Swoosh Cap",
+    "category": "accessories",
+    "price": 1195,
+    "salePrice": 1195,
+    "discount": 0,
+    "color": "Brown",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad22b92Nike-FB5625-247_1.jpg",
+    "sizes": [
+      "S/M",
+      "M/L",
+      "L/XL"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Nike",
+    "description": "Nike Dri-FIT Club Structured Swoosh Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 5.0,
+    "reviewCount": 371,
+    "sku": "SW-116",
+    "tags": [
+      "men",
+      "accessories",
+      "new-arrival",
+      "nike"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "prod-127",
+    "name": "Jordan Rise Structured Cap",
+    "category": "accessories",
+    "price": 1695,
+    "salePrice": 1695,
+    "discount": 0,
+    "color": "Blue",
+    "inStock": true,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/42d1084Nike-IM9072-485_1.jpg",
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "gender": "men",
+    "isFeatured": false,
+    "isTop": false,
+    "brand": "Jordan",
+    "description": "Jordan Rise Structured Cap designed for everyday comfort, versatile styling, and active days.",
+    "rating": 4.9,
+    "reviewCount": 291,
+    "sku": "SW-127",
+    "tags": [
+      "men",
+      "accessories",
+      "new-arrival",
+      "jordan"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": "new-011",
+    "sku": "SW-NEW-011",
+    "name": "PUMA Everyday Training Backpack",
+    "brand": "PUMA",
+    "category": "accessories",
+    "gender": "men",
+    "price": 2999,
+    "salePrice": 2099,
+    "discount": 30,
+    "color": "Black",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "sizes": [
+      "One Size"
+    ],
+    "description": "PUMA Everyday Training Backpack offers a versatile sportswear look with comfort-focused design for everyday use and active routines.",
+    "rating": 4.6,
+    "reviewCount": 337,
+    "tags": [
+      "men",
+      "accessories",
+      "sale",
+      "puma",
+      "new-arrival"
+    ],
+    "isFeatured": true,
+    "isTop": true,
+    "isNewArrival": true
   }
 ]
